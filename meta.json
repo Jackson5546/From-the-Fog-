@@ -2,6 +2,11 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
-  ]
+    {
+        "id": "2.0.0",
+        "releasedAt": 171394200000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://cdn.modrinth.com/data/cCx9bgOd/versions/PJO9Erp4/From%20the%20Fog%2B%202.0.0.mrpack",
+            }}
 }
